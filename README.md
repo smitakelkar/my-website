@@ -1,7 +1,4 @@
 # my-website
 
-Test
-Test change at Repo
-
-Test changed locally
+This is an awesome file on example branch
 
