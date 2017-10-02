@@ -6,4 +6,4 @@ Test changed locally
 Change 1
 Change 2
 
-Changing before Rebase
+Changing before Rebase now
